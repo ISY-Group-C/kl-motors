@@ -26,16 +26,6 @@ K.L Motors aims to bring car dealership services online, making it convenient fo
 
 ---
 
-## 🛠️ Technologies Used
-
-- **Frontend:** HTML, CSS, JavaScript (or a frontend framework like React/Vue if used)
-- **Backend:** PHP / Node.js / Python (mention what you're using, if applicable)
-- **Database:** MySQL / MongoDB / Firebase (if your site has dynamic content)
-- **Payment Integration:** (Optional — mention Mobile Money, Stripe, etc., if added)
-- **Hosting:** Hosted on [Your Hosting Platform] (e.g., Netlify, Vercel, cPanel, etc.)
-
----
-
 ## 📁 How to Use or Deploy
 
 **Clone the repository:**
